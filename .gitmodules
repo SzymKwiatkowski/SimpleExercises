@@ -1,0 +1,3 @@
+[submodule "ros-exercises"]
+	path = ros-exercises
+	url = https://github.com/SzymKwiatkowski/ros-exercises
